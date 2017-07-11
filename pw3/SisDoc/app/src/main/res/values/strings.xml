@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SisDoc</string>
+    <string name="txtLogin"> Login </string>
+    <string name="txtMatricula"> Matrícula: </string>
+    <string name="txtSenha"> Senha: </string>
+    <string name="btnEntrar"> Entrar </string>
+    <string name="edtxtMatricula"> </string>
+    <string name="edtxtSenha"> </string>
+    <string name="txtDocente"> Servidor(a): </string>
+    <string name="btnEnviar"> Enviar </string>
+    <string name="txtMsgRecebida"> </string>
+    <string name="txtSala"> Sala: </string>
+    <string name="txtSalaPredio"> 215/Torre Norte </string>
+    <string name="txtHorario"> Horário: </string>
+    <string name="txtHorarioSala"> 18:45 </string>
+    <string name="btnVoltar"> Nova busca </string>
+    <string name="btnSair"> Sair </string>
+    <string-array name="docentes">
+        <item>Adriana Oliveira de Pinho</item>
+        <item>Alessandra Nejar Bruno</item>
+        <item>Alex Dias Gonsales</item>
+    </string-array>
+</resources>
